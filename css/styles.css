@@ -1,0 +1,25 @@
+:root {
+  --lvl-4: #00204a;
+  --lvl-3: #005792;
+  --lvl-2: #00bbf0;
+  --lvl-1: #d9faff;
+}
+
+body {
+  background-color: #eee !important;
+  color: #fff !important;
+}
+
+.header {
+}
+
+.hero-photo {
+  width: 30vw;
+  height: auto;
+}
+
+.navbar {
+  color: white;
+  background-color: #111;
+  padding: 15vh 10vw !important;
+}
